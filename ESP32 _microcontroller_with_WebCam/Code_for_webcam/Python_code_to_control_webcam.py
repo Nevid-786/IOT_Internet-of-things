@@ -9,7 +9,7 @@ import time
 
 # ------------------- Serial Setup -------------------
 # Change COM3 to your ESP port (Linux: /dev/ttyUSB0 or /dev/ttyACM0, Mac: /dev/cu.usbserial)
-SERIAL_PORT = "COM6"  N
+SERIAL_PORT = "COM6"  
 BAUD_RATE = 115200
 
 try:
